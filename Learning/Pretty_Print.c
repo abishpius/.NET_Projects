@@ -31,3 +31,25 @@ comparrisonMessage += $"{newProfit:C}".PadRight(20);
 // Your logic here
 
 Console.WriteLine(comparrisonMessage);
+
+const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+string quantity = "";
+string output = "";
+
+// Your work here
+int openingPosition = input.IndexOf("<span>");
+int closingPosition = input.IndexOf("</span>");
+openingPosition += 6;
+int length = closingPosition - openingPosition;
+quantity = input.Substring(openingPosition,length);
+
+int openingPosition1 = input.IndexOf("<div>");
+int closingPosition1 = input.IndexOf("</div>");
+openingPosition1 += 5;
+int length2 = closingPosition1 - openingPosition1;
+output = input.Substring(openingPosition1, length2);
+output = output.Replace("&trade", "&reg");
+
+Console.WriteLine(quantity);
+Console.WriteLine(output);
