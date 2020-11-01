@@ -1,0 +1,10 @@
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\Debug\netstandard2.0\Sentiment_AnalysisML.Model.deps.json
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\Debug\netstandard2.0\Sentiment_AnalysisML.Model.dll
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\bin\Debug\netstandard2.0\Sentiment_AnalysisML.Model.pdb
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\Debug\netstandard2.0\Sentiment_AnalysisML.Model.csprojAssemblyReference.cache
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\Debug\netstandard2.0\Sentiment_AnalysisML.Model.AssemblyInfoInputs.cache
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\Debug\netstandard2.0\Sentiment_AnalysisML.Model.AssemblyInfo.cs
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\Debug\netstandard2.0\Sentiment_AnalysisML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\Debug\netstandard2.0\Sentiment_AnalysisML.Model.dll
+C:\Users\Abish\Documents\C#_Projects\ML.Net\ML_BlazorApp\Sentiment_Analysis\Sentiment_AnalysisML.Model\obj\Debug\netstandard2.0\Sentiment_AnalysisML.Model.pdb
